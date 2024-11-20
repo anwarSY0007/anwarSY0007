@@ -21,7 +21,6 @@ I'm looking to collaborate on any programming language projects! Feel free to re
 ## 📫 How to Reach Me
 You can contact me via:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anwar-sy/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/your_twitter_handle)
 - Email: [anwar.sy0007@gmail.com](mailto:anwar.sy0007@gmail.com)
 
 ---
@@ -48,6 +47,9 @@ Here are some of my skills:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anwarSY0007&layout=compact&theme=tokyonight)
 
 ## 🌟 GitHub Stats Overview
+![GitHub Activity](https://activity-graph.herokuapp.com/graph?username=anwarSY0007&theme=react-dark)
+
+## 🌟 GitHub Activity
 ![GitHub Activity](https://activity-graph.herokuapp.com/graph?username=anwarSY0007&theme=react-dark)
 
 ## 🎨 Hobbies

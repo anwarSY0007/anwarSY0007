@@ -1,4 +1,4 @@
-![Banner](https://your-banner-image-url.com)
+![Profile Picture](https://github.com/anwarSY0007.png)
 
 # 👋 Hi there, I'm **@anwarSY0007**
 

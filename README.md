@@ -46,11 +46,6 @@ Here are some of my skills:
 ## 🌐 Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anwarSY0007&layout=compact&theme=tokyonight)
 
-## 🌟 GitHub Stats Overview
-![GitHub Activity](https://activity-graph.herokuapp.com/graph?username=anwarSY0007&theme=react-dark)
-
-## 🌟 GitHub Activity
-![GitHub Activity](https://activity-graph.herokuapp.com/graph?username=anwarSY0007&theme=react-dark)
 
 ## 🎨 Hobbies
 - 🎮 Gaming

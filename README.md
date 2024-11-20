@@ -26,8 +26,11 @@ You can contact me via:
 ---
 
 ## 🔧 Recent Projects
-- [Project 1](https://github.com/username/project1) - Short description of what this project does.
-- [Project 2](https://github.com/username/project2) - Short description of what this project does.
+- [Project 1]([https://github.com/username/project1](https://github.com/anwarSY0007/program_smart)) - SMART Decision support.
+- [Project 2]([https://github.com/username/project2](https://github.com/anwarSY0007/my-profile-landingpage)) - my landing page.
+- [Project 3]([https://github.com/username/project2](https://github.com/anwarSY0007/my-profile-landingpage)](https://github.com/anwarSY0007/3d-porto)) - my 3D landing page.
+- [Project 4]([[https://github.com/username/project2](https://github.com/anwarSY0007/my-profile-landingpage)](https://github.com/anwarSY0007/3d-porto)](https://github.com/anwarSY0007/payroll-app)) - payroll sistem.
+- etc
 
 ## ⚡ Skills
 Here are some of my skills:

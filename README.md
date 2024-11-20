@@ -40,8 +40,6 @@ Here are some of my skills:
 - ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-70%25-green)
 - ![Next.js](https://img.shields.io/badge/Next.js-70%25-black)
 
-## 📊 GitHub Stats
-![Anwar's GitHub stats](https://github-readme-stats.vercel.app/api?username=anwarSY0007&show_icons=true&theme=tokyonight&count_private=true)
 
 ## 🌐 Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anwarSY0007&layout=compact&theme=tokyonight)

@@ -1,3 +1,5 @@
+![Banner](https://your-banner-image-url.com)
+
 # 👋 Hi there, I'm **@anwarSY0007**
 
 ## 👀 About Me
@@ -18,10 +20,15 @@ I'm looking to collaborate on any programming language projects! Feel free to re
 
 ## 📫 How to Reach Me
 You can contact me via:
-- [LinkedIn](https://www.linkedin.com/in/anwar-sy/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anwar-sy/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/your_twitter_handle)
 - Email: [anwar.sy0007@gmail.com](mailto:anwar.sy0007@gmail.com)
 
 ---
+
+## 🔧 Recent Projects
+- [Project 1](https://github.com/username/project1) - Short description of what this project does.
+- [Project 2](https://github.com/username/project2) - Short description of what this project does.
 
 ## ⚡ Skills
 Here are some of my skills:
@@ -39,6 +46,14 @@ Here are some of my skills:
 
 ## 🌐 Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anwarSY0007&layout=compact&theme=tokyonight)
+
+## 🌟 GitHub Stats Overview
+![GitHub Activity](https://activity-graph.herokuapp.com/graph?username=anwarSY0007&theme=react-dark)
+
+## 🎨 Hobbies
+- 🎮 Gaming
+- 📚 Reading
+- 🌍 Traveling
 
 ---
 
